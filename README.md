@@ -1,4 +1,4 @@
-# Licence-Plate-Recognition-using-Deep-Learning
+# Numpl8: Licence Plate Recognition using Deep Learning
 
 💫 Description
 
